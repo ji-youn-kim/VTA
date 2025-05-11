@@ -1,4 +1,4 @@
-# AI504_TA
+# Virtual Teaching Assistant
 
 ```
 conda create -n langchain python=3.11
