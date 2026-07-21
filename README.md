@@ -76,12 +76,3 @@ streamlit run main.py
 
 - Upload the repository to [Streamlit Cloud](https://streamlit.io/cloud).
 - In the deployment settings, add the required secret keys (same as in `secrets.toml`) through Streamlit’s **"Secrets"** configuration UI.
-
----
-
-## 📬 Contact
-
-For any inquiries, please contact:
-
-**Sunjun Kweon**  
-📧 sean0042@kaist.ac.kr
